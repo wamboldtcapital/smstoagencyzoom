@@ -1,12 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 167217478,
+      "messageId": 167040546,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Noah this is my phone number. I am his wife Julie. You will be working with me on the quotes.",
-      "timestamp": "01-06, Tuesday, 12:50 PM"
+      "messageBody": "Thanks",
+      "timestamp": "01-05, Monday, 6:52 PM"
+    },
+    {
+      "messageId": 167040437,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "11am tomorrow is good",
+      "timestamp": "01-05, Monday, 6:47 PM"
     }
   ]
 }
