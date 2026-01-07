@@ -1,28 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 167288546,
+      "messageId": 167342128,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "The vehicle in Arizona is kept at my sister's house. It's for my use when I go into town occasionally very low miles annually.",
-      "timestamp": "01-06, Tuesday, 8:33 PM"
-    },
-    {
-      "messageId": 167288276,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Looks like it. I'll review it tomorrow. Thank you",
-      "timestamp": "01-06, Tuesday, 8:05 PM"
-    },
-    {
-      "messageId": 167263829,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Noah, this is Julie, as I said I am Eugene's wife. Please call me and update your contact records.",
-      "timestamp": "01-06, Tuesday, 3:34 PM"
+      "messageBody": "It was originally in Az when my daughter was at College but she graduated and lives in New York City",
+      "timestamp": "01-07, Wednesday, 9:16 AM"
     }
   ]
 }
