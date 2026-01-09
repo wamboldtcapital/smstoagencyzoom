@@ -1,42 +1,30 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-09 06:57:25 UTC
-Total Messages: 3
+Generated: 2026-01-09 17:30:33 UTC
+Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-08, Thursday, 9:45 PM
+Date:    01-09, Friday, 10:30 AM
 From:    Unknown
-Contact: Richard McMillan
-ID:      167757507
+Contact: Eugene Guzikowski
+ID:      167879623
 
 Message:
-Are you going to get my insurance quotes to me at any time?
+We have an appt with Noah at 11:30 to finalize.
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-08, Thursday, 5:02 PM
+Date:    01-05, Monday, 10:58 AM
 From:    Unknown
-Contact: Breiana Olguin & Dylan Baughn
-ID:      167752690
+Contact: Alyssa Sims
+ID:      166929947
 
 Message:
-Hi there, I did not receive an email with an insurance review. Was it sent to breiana141@yahoo.com? Email is the best form of communication for me. Do you recall how much it would be for similar coverage?
-
-================================================================================
-
-MESSAGE #3
---------------------------------------------------------------------------------
-Date:    01-08, Thursday, 4:22 PM
-From:    Unknown
-Contact: Janet Bruce
-ID:      167749022
-
-Message:
-I did and I will review once I get home
+I have already filled out that information but yet have not been contacted
 
 ================================================================================
 
