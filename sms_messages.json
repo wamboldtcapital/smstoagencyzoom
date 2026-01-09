@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 167888357,
+      "messageId": 167902730,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'm absolutely interested.  Let's move forward.",
-      "timestamp": "01-09, Friday, 10:46 AM"
-    },
-    {
-      "messageId": 167885738,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you, Jared. Looking forward for an update",
-      "timestamp": "01-09, Friday, 10:41 AM"
+      "messageBody": "Ok. Good to know. Shaun and I haven't had time to talk about it yet",
+      "timestamp": "01-09, Friday, 11:13 AM"
     }
   ]
 }
