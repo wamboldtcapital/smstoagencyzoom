@@ -1,20 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 168328364,
+      "messageId": 53770708,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Shaun and I were able to discuss and happy to move forward any time.\nAlso curious what a 2013 keystone passport fifth wheel would cost to add",
-      "timestamp": "01-12, Monday, 6:27 PM"
+      "messageBody": "The letter does state not at fault",
+      "timestamp": "02-23, Friday, 9:08 AM"
     },
     {
-      "messageId": 168322686,
+      "messageId": 53770551,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you Noah!",
-      "timestamp": "01-12, Monday, 4:43 PM"
+      "messageBody": "I'll send it later, I'm at work and don't have the letter with me to take a picture",
+      "timestamp": "02-23, Friday, 9:08 AM"
     }
   ]
 }
