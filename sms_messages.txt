@@ -1,30 +1,30 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-13 15:29:35 UTC
+Generated: 2026-01-13 17:53:48 UTC
 Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-23, Friday, 9:08 AM
+Date:    01-13, Tuesday, 10:47 AM
 From:    Unknown
-Contact: Denise Pavelich
-ID:      53770708
+Contact: Santiago Ongay
+ID:      168458255
 
 Message:
-The letter does state not at fault
+Thank you so much for the update! Looking forward to speaking soon
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    02-23, Friday, 9:08 AM
+Date:    01-13, Tuesday, 10:45 AM
 From:    Unknown
-Contact: Denise Pavelich
-ID:      53770551
+Contact: Jacob Eason
+ID:      168457377
 
 Message:
-I'll send it later, I'm at work and don't have the letter with me to take a picture
+I'm still waiting on to see if I purchase the car is the quote still the same ? Can you keep it on file for a couple more days ?
 
 ================================================================================
 

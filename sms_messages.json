@@ -1,20 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 53770708,
+      "messageId": 168458255,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "The letter does state not at fault",
-      "timestamp": "02-23, Friday, 9:08 AM"
+      "messageBody": "Thank you so much for the update! Looking forward to speaking soon",
+      "timestamp": "01-13, Tuesday, 10:47 AM"
     },
     {
-      "messageId": 53770551,
+      "messageId": 168457377,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'll send it later, I'm at work and don't have the letter with me to take a picture",
-      "timestamp": "02-23, Friday, 9:08 AM"
+      "messageBody": "I'm still waiting on to see if I purchase the car is the quote still the same ? Can you keep it on file for a couple more days ?",
+      "timestamp": "01-13, Tuesday, 10:45 AM"
     }
   ]
 }
