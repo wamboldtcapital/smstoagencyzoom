@@ -1,20 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 168458255,
+      "messageId": 168502296,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you so much for the update! Looking forward to speaking soon",
-      "timestamp": "01-13, Tuesday, 10:47 AM"
+      "messageBody": "Sorry about all that- I sent a couple emails back",
+      "timestamp": "01-13, Tuesday, 12:33 PM"
     },
     {
-      "messageId": 168457377,
+      "messageId": 168501618,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'm still waiting on to see if I purchase the car is the quote still the same ? Can you keep it on file for a couple more days ?",
-      "timestamp": "01-13, Tuesday, 10:45 AM"
+      "messageBody": "Still reviewing.",
+      "timestamp": "01-13, Tuesday, 12:30 PM"
     }
   ]
 }

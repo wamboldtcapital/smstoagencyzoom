@@ -1,30 +1,30 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-13 17:53:48 UTC
+Generated: 2026-01-13 19:38:14 UTC
 Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 10:47 AM
+Date:    01-13, Tuesday, 12:33 PM
 From:    Unknown
-Contact: Santiago Ongay
-ID:      168458255
+Contact: Kristina Kinney
+ID:      168502296
 
 Message:
-Thank you so much for the update! Looking forward to speaking soon
+Sorry about all that- I sent a couple emails back
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 10:45 AM
+Date:    01-13, Tuesday, 12:30 PM
 From:    Unknown
-Contact: Jacob Eason
-ID:      168457377
+Contact: Janet Bruce
+ID:      168501618
 
 Message:
-I'm still waiting on to see if I purchase the car is the quote still the same ? Can you keep it on file for a couple more days ?
+Still reviewing.
 
 ================================================================================
 
