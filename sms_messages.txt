@@ -1,54 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-14 06:53:32 UTC
-Total Messages: 4
+Generated: 2026-01-14 18:35:51 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 8:33 PM
+Date:    01-14, Wednesday, 11:05 AM
 From:    Unknown
-Contact: Carol Nesbitt
-ID:      168572673
+Contact: Richard McMillan
+ID:      168718765
 
 Message:
-I am in a daylong meeting tomorrow and will be unavailable
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 8:32 PM
-From:    Unknown
-Contact: Carol Nesbitt
-ID:      168572671
-
-Message:
-Yes- my son is an insurance agent in another state.  We looked over the policy and I did want to visit with you about a few things. Is there a time to talk on Thursday?
-
-================================================================================
-
-MESSAGE #3
---------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 4:37 PM
-From:    Unknown
-Contact: Reilly and Coltan Jensen
-ID:      168562971
-
-Message:
-Will do, I appreciate your help
-
-================================================================================
-
-MESSAGE #4
---------------------------------------------------------------------------------
-Date:    01-13, Tuesday, 4:21 PM
-From:    Unknown
-Contact: Reilly and Coltan Jensen
-ID:      168560510
-
-Message:
-I did receive it
+I have not seen the prices on Insurance he found me
 
 ================================================================================
 
