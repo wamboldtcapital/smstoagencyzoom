@@ -1,18 +1,30 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-14 18:35:51 UTC
-Total Messages: 1
+Generated: 2026-01-14 20:40:23 UTC
+Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-14, Wednesday, 11:05 AM
+Date:    10-10, Friday, 7:12 PM
 From:    Unknown
-Contact: Richard McMillan
-ID:      168718765
+Contact: Teea & Clarence  Ashley
+ID:      153626662
 
 Message:
-I have not seen the prices on Insurance he found me
+Hello - any updates on the house insurance?
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    10-07, Tuesday, 5:14 PM
+From:    Unknown
+Contact: Teea & Clarence  Ashley
+ID:      153037951
+
+Message:
+No worries
 
 ================================================================================
 
