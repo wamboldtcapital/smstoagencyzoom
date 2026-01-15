@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 168808259,
+      "messageId": 168932795,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I did receive it. I will review it with my husband tonight and get back to you",
-      "timestamp": "01-14, Wednesday, 3:55 PM"
-    },
-    {
-      "messageId": 168714224,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Yes\nWill call this afternoon",
-      "timestamp": "01-14, Wednesday, 10:54 AM"
+      "messageBody": "Hey Noah. Am I good to cancel all my policies with Liberty Mutual?",
+      "timestamp": "01-15, Thursday, 9:40 AM"
     }
   ]
 }

@@ -1,31 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-15 06:33:22 UTC
-Total Messages: 2
+Generated: 2026-01-15 16:48:00 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-14, Wednesday, 3:55 PM
+Date:    01-15, Thursday, 9:40 AM
 From:    Unknown
-Contact: Tammy Burton
-ID:      168808259
+Contact: Julie Guzikowski
+ID:      168932795
 
 Message:
-I did receive it. I will review it with my husband tonight and get back to you
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-14, Wednesday, 10:54 AM
-From:    Unknown
-Contact: Tammy Burton
-ID:      168714224
-
-Message:
-Yes
-Will call this afternoon
+Hey Noah. Am I good to cancel all my policies with Liberty Mutual?
 
 ================================================================================
 
