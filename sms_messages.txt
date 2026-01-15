@@ -1,30 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-15 18:19:35 UTC
-Total Messages: 2
+Generated: 2026-01-15 18:56:57 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-15, Thursday, 10:54 AM
+Date:    01-15, Thursday, 11:27 AM
 From:    Unknown
-Contact: Julie & Eugene Guzikowski
-ID:      168970366
+Contact: Brandon Van Hee
+ID:      168988616
 
 Message:
-Here is the review I posted.
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-15, Thursday, 10:32 AM
-From:    Unknown
-Contact: Julie & Eugene Guzikowski
-ID:      168960475
-
-Message:
-I'm all about reviews and will give you an excellent review.
+Hello Noah can we talk over a phone call and I did receive your email
 
 ================================================================================
 

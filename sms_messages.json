@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 168970366,
+      "messageId": 168988616,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Here is the review I posted.",
-      "timestamp": "01-15, Thursday, 10:54 AM"
-    },
-    {
-      "messageId": 168960475,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'm all about reviews and will give you an excellent review.",
-      "timestamp": "01-15, Thursday, 10:32 AM"
+      "messageBody": "Hello Noah can we talk over a phone call and I did receive your email",
+      "timestamp": "01-15, Thursday, 11:27 AM"
     }
   ]
 }
