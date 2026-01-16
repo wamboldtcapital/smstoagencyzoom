@@ -1,18 +1,54 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-15 21:51:02 UTC
-Total Messages: 1
+Generated: 2026-01-16 06:51:52 UTC
+Total Messages: 4
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-15, Thursday, 2:50 PM
+Date:    01-15, Thursday, 8:17 PM
 From:    Unknown
-Contact: Brenda Hummel
-ID:      169051487
+Contact: (303) 888-4367
+ID:      169072396
 
 Message:
-Ok. Thanks.  I haven't watched the video due to teaching.  Did you find anything out about insuring equine tack?
+Ok thank you! I will have to read all of that tomorrow since it's late.
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    01-13, Tuesday, 1:03 PM
+From:    Unknown
+Contact: (303) 888-4367
+ID:      168508894
+
+Message:
+Ok I'm reviewing it now. Thanks
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-15, Thursday, 8:04 PM
+From:    Unknown
+Contact: Eric Stewart
+ID:      169072311
+
+Message:
+Thank you, Noah.
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-15, Thursday, 6:29 PM
+From:    Unknown
+Contact: Eric Stewart
+ID:      169070388
+
+Message:
+Hi Jared, it has been more than three weeks since I have heard from you so I am following up with you concerning the insurance review. Were you able to find other options for us?
 
 ================================================================================
 
