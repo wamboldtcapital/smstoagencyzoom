@@ -1,12 +1,36 @@
 {
   "messages": [
     {
-      "messageId": 169270019,
+      "messageId": 169306339,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "It's still the same money amount but thank you anyway.",
-      "timestamp": "01-16, Friday, 1:52 PM"
+      "messageBody": "Thank You",
+      "timestamp": "01-16, Friday, 10:03 PM"
+    },
+    {
+      "messageId": 169306080,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Hello, our realtor and lender are asking for insurance choice by early next week. Is there any update?",
+      "timestamp": "01-16, Friday, 8:47 PM"
+    },
+    {
+      "messageId": 169297999,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Virginia's cell is 720-454-8119.  I will review the last text you sent and let you know. That amount is more in my price range. I will get back to you. Thank you",
+      "timestamp": "01-16, Friday, 4:20 PM"
+    },
+    {
+      "messageId": 169295095,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "I will check with Virg to see if it's okay to give out her number. I am going to go with another insurance company so you don't need to check any further. Thank you again for your time I will check with Virg and let you know if it's okay to give out her number.",
+      "timestamp": "01-16, Friday, 3:57 PM"
     }
   ]
 }
