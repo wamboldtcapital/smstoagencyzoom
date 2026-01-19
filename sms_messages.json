@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 169500411,
+      "messageId": 169556167,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Or would you question my motives?",
-      "timestamp": "01-19, Monday, 9:38 AM"
-    },
-    {
-      "messageId": 169500024,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Would you like it if I texted you on your birthday?",
-      "timestamp": "01-19, Monday, 9:37 AM"
+      "messageBody": "The house is due tomorrow",
+      "timestamp": "01-19, Monday, 11:31 AM"
     }
   ]
 }
