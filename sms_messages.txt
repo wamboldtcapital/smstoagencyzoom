@@ -1,30 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-17 16:49:44 UTC
-Total Messages: 2
+Generated: 2026-01-19 14:54:17 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-17, Saturday, 9:43 AM
+Date:    01-19, Monday, 7:47 AM
 From:    Unknown
-Contact: Carol Nesbitt
-ID:      169332362
+Contact: Paul Boutilier
+ID:      169411515
 
 Message:
-
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-17, Saturday, 9:42 AM
-From:    Unknown
-Contact: Carol Nesbitt
-ID:      169332317
-
-Message:
-That link is taking me to a roofing company??
+Good morning, I hope you have information, if not I need to continue with current insurance policy
 
 ================================================================================
 
