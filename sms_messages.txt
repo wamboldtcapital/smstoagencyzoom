@@ -1,18 +1,54 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-20 17:38:57 UTC
-Total Messages: 1
+Generated: 2026-01-20 17:57:16 UTC
+Total Messages: 4
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 10:38 AM
+Date:    01-20, Tuesday, 10:44 AM
 From:    Unknown
-Contact: Dawn Lucas
-ID:      169763342
+Contact: Jacob Eason
+ID:      169766625
 
 Message:
-Good morning. Yes, I did. I have a scheduled call with you at 12:30 today. Dawn.
+Hey noah, Ok can you keep the quote on file for about a week and I'll figure this out with my parent.
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    01-19, Monday, 4:19 PM
+From:    Unknown
+Contact: Jacob Eason
+ID:      169616719
+
+Message:
+That's if I was on my own policy?
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-19, Monday, 4:18 PM
+From:    Unknown
+Contact: Jacob Eason
+ID:      169616664
+
+Message:
+Should be a 2014 ford fusion
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 10:40 AM
+From:    Unknown
+Contact: Dawn Lucas
+ID:      169764480
+
+Message:
+Hi, sorry, wrong insurance. No, I did not get a text from you. I will schedule a call with you. Dawn.
 
 ================================================================================
 
