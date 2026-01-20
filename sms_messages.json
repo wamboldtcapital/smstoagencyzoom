@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 156662091,
+      "messageId": 169763342,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hi Nina - are we still meeting today?",
-      "timestamp": "10-30, Thursday, 9:18 AM"
-    },
-    {
-      "messageId": 156219461,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hi Nina, thanks for reaching out. I just scheduled time with you on Thursday. See you then.",
-      "timestamp": "10-28, Tuesday, 8:43 AM"
+      "messageBody": "Good morning. Yes, I did. I have a scheduled call with you at 12:30 today. Dawn.",
+      "timestamp": "01-20, Tuesday, 10:38 AM"
     }
   ]
 }
