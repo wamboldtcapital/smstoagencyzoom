@@ -1,30 +1,43 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-20 18:30:59 UTC
-Total Messages: 2
+Generated: 2026-01-20 20:34:22 UTC
+Total Messages: 3
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 11:28 AM
+Date:    01-20, Tuesday, 1:15 PM
 From:    Unknown
-Contact: Alyssa Olivieri and Christian Walker
-ID:      169790794
+Contact: Santiago & Corey Ongay
+ID:      169825295
 
 Message:
-I will be emailing your team with the documents
+Thank you, Noah. Docusign is done. I'm just waiting for documents from Allstate, correct?
+And I am good to cancel with current insurance, correct?
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 11:27 AM
+Date:    01-20, Tuesday, 12:52 PM
 From:    Unknown
-Contact: Alyssa Olivieri and Christian Walker
-ID:      169790593
+Contact: Santiago & Corey Ongay
+ID:      169816653
 
 Message:
-Can someone please explain why this is taking so long? We had another agency quote us in one day. Also, the rate that was quoted by your agency, was almost double this price.
+Hi Noah, just want to confirm my wife is covered under the auto policy correct?
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 11:55 AM
+From:    Unknown
+Contact: Santiago & Corey Ongay
+ID:      169797373
+
+Message:
+I'll check email now and will be happy to leave a review when everything is all set
 
 ================================================================================
 
