@@ -1,30 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-19 19:57:34 UTC
-Total Messages: 2
+Generated: 2026-01-20 06:42:50 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-19, Monday, 12:54 PM
+Date:    01-19, Monday, 5:37 PM
 From:    Unknown
-Contact: Kristina Kinney
-ID:      169579740
+Contact: Hanson Turnbull
+ID:      169621436
 
 Message:
-Liked “Also, while I have you, I wanted to ask a favor. Have you left us a Google review yet? We survive on our Google reviews. It'd mean the world to us if you left us a review. We aim to get 800 Google reviews by the end of the year. Here is the link to it: https://tinyurl.com/reviewullrichinsurance. It might take just a minute. If you could do this, it would be amazing. If you can’t, it’s okay too. Thanks, Krissey!”
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-19, Monday, 12:53 PM
-From:    Unknown
-Contact: Kristina Kinney
-ID:      169579701
-
-Message:
-Liked “Of course! They don't have a nurse discount specifically but they did add a bit of discount for changing your occupation to being a nurse.”
+I will look it over tomorrow morning
 
 ================================================================================
 
