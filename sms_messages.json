@@ -1,28 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 169825295,
+      "messageId": 169831328,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you, Noah. Docusign is done. I'm just waiting for documents from Allstate, correct?\nAnd I am good to cancel with current insurance, correct?",
-      "timestamp": "01-20, Tuesday, 1:15 PM"
+      "messageBody": "https://www.ctmecontracts.com/files/PDFConvert/c92062f4-fa00-489f-8361-76b501f35f77.pdf?fn=++++SELLERS+PROPERTY+DISCLOSURE+%28Residential%29.pdf&dwn=1&ST=",
+      "timestamp": "01-20, Tuesday, 1:39 PM"
     },
     {
-      "messageId": 169816653,
+      "messageId": 169831301,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hi Noah, just want to confirm my wife is covered under the auto policy correct?",
-      "timestamp": "01-20, Tuesday, 12:52 PM"
-    },
-    {
-      "messageId": 169797373,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'll check email now and will be happy to leave a review when everything is all set",
-      "timestamp": "01-20, Tuesday, 11:55 AM"
+      "messageBody": "Hi! Here's the additional information we just got today. Please let me know if you need anything else",
+      "timestamp": "01-20, Tuesday, 1:39 PM"
     }
   ]
 }
