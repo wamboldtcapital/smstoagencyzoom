@@ -1,18 +1,31 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-21 15:01:59 UTC
-Total Messages: 1
+Generated: 2026-01-21 17:08:22 UTC
+Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 7:43 AM
+Date:    01-21, Wednesday, 9:07 AM
 From:    Unknown
-Contact: Santiago & Corey Ongay
-ID:      169902554
+Contact: Amanda & Bailey  Clark
+ID:      169951690
 
 Message:
-Good morning Noah. I am reviewing the Allstate policy (from their email to complete policy) it says no children in the house but we have 2 kids. Is this concerning or should I move forward as is?
+That works great. Thanks Noah!
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 7:39 PM
+From:    Unknown
+Contact: Amanda & Bailey  Clark
+ID:      169880300
+
+Message:
+Thank you!
+The contract deadline for our new home is 2/9. Will we be able to meet that?
 
 ================================================================================
 

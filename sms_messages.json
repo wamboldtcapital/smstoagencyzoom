@@ -1,12 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 169902554,
+      "messageId": 169951690,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Good morning Noah. I am reviewing the Allstate policy (from their email to complete policy) it says no children in the house but we have 2 kids. Is this concerning or should I move forward as is?",
-      "timestamp": "01-21, Wednesday, 7:43 AM"
+      "messageBody": "That works great. Thanks Noah!",
+      "timestamp": "01-21, Wednesday, 9:07 AM"
+    },
+    {
+      "messageId": 169880300,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Thank you!\nThe contract deadline for our new home is 2/9. Will we be able to meet that?",
+      "timestamp": "01-20, Tuesday, 7:39 PM"
     }
   ]
 }
