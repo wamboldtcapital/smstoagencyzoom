@@ -1,30 +1,70 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-20 20:56:29 UTC
-Total Messages: 2
+Generated: 2026-01-21 06:57:16 UTC
+Total Messages: 5
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 1:39 PM
+Date:    01-20, Tuesday, 8:17 PM
 From:    Unknown
-Contact: Amanda & Bailey  Clark
-ID:      169831328
+Contact: Breiana Olguin & Dylan Baughn
+ID:      169881089
 
 Message:
-https://www.ctmecontracts.com/files/PDFConvert/c92062f4-fa00-489f-8361-76b501f35f77.pdf?fn=++++SELLERS+PROPERTY+DISCLOSURE+%28Residential%29.pdf&dwn=1&ST=
+Thank you so much for sending this over! We've decided to go with another provider's coverage. Could you please help us with the cancellation notice for this policy?
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 1:39 PM
+Date:    01-20, Tuesday, 6:35 PM
 From:    Unknown
-Contact: Amanda & Bailey  Clark
-ID:      169831301
+Contact: Eric Zengler
+ID:      169879053
 
 Message:
-Hi! Here's the additional information we just got today. Please let me know if you need anything else
+Noah - can you give me a ring in a couple weeks man? Would love to get my auto insurance down from what it is currently
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    08-29, Friday, 4:16 PM
+From:    Unknown
+Contact: Eric Zengler
+ID:      113582937
+
+Message:
+Awesome. 127.66 is a solid rate.
+
+What would it cost to add renters insurance ,
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    08-29, Friday, 4:01 PM
+From:    Unknown
+Contact: Eric Zengler
+ID:      113581329
+
+Message:
+Hey Noah / thanks for the call man - today got away from me. Let's plan a call next week. In a meeting now. 
+
+Do you have the rate by chance ?
+
+================================================================================
+
+MESSAGE #5
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 5:20 PM
+From:    Unknown
+Contact: Cherri Correa
+ID:      169874396
+
+Message:
+I did receive the email and I just listened to the video. Thank you for putting this all together. I will go over everything with my husband and let you know what we decide.
 
 ================================================================================
 
