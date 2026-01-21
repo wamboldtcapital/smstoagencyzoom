@@ -1,31 +1,80 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-21 17:08:22 UTC
-Total Messages: 2
+Generated: 2026-01-21 20:02:06 UTC
+Total Messages: 6
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 9:07 AM
+Date:    01-21, Wednesday, 10:40 AM
 From:    Unknown
-Contact: Amanda & Bailey  Clark
-ID:      169951690
+Contact: Eric Stewart
+ID:      170013697
 
 Message:
-That works great. Thanks Noah!
+I plan on looking at the options today. I am currently dealing with my mom's passing and trying to get things in order. I will let you know when I review the options.
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 7:39 PM
+Date:    01-21, Wednesday, 10:32 AM
 From:    Unknown
-Contact: Amanda & Bailey  Clark
-ID:      169880300
+Contact: Elaine Siseros
+ID:      170007883
 
 Message:
-Thank you!
-The contract deadline for our new home is 2/9. Will we be able to meet that?
+I thought this was done.
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-21, Wednesday, 8:24 AM
+From:    Unknown
+Contact: Tyson Snider
+ID:      169922773
+
+Message:
+Good morning Jared. Just checking in.
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-21, Wednesday, 8:24 AM
+From:    Unknown
+Contact: Tyson Snider
+ID:      169922768
+
+Message:
+Good morning Jared. Just checking in.
+
+================================================================================
+
+MESSAGE #5
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 10:37 AM
+From:    Unknown
+Contact: Tyson Snider
+ID:      169763012
+
+Message:
+Hey Jared. Not sure I saw the email. 
+Did you receive the Drivers License number and home VIN?
+
+================================================================================
+
+MESSAGE #6
+--------------------------------------------------------------------------------
+Date:    01-20, Tuesday, 10:37 AM
+From:    Unknown
+Contact: Tyson Snider
+ID:      169763008
+
+Message:
+Hey Jared. Not sure I saw the email. 
+Did you receive the Drivers License number and home VIN?
 
 ================================================================================
 
