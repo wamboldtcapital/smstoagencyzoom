@@ -1,66 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-22 17:38:15 UTC
-Total Messages: 5
+Generated: 2026-01-22 18:58:06 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-22, Thursday, 10:36 AM
-From:    Unknown
-Contact: Jhaseiry Torres-Reyes
-ID:      170263680
-
-Message:
-Thank you!
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 12:24 PM
-From:    Unknown
-Contact: Jhaseiry Torres-Reyes
-ID:      169810502
-
-Message:
-Hi, yes I have a call scheduled with you at 2:45 his afternoon
-
-================================================================================
-
-MESSAGE #3
---------------------------------------------------------------------------------
-Date:    01-22, Thursday, 10:35 AM
-From:    Unknown
-Contact: Jesse Park
-ID:      170262937
-
-Message:
-Hi I went with a different broker. Thank you
-
-================================================================================
-
-MESSAGE #4
---------------------------------------------------------------------------------
-Date:    01-22, Thursday, 10:35 AM
-From:    Unknown
-Contact: Tyson Snider
-ID:      170262739
-
-Message:
-Was there information that came out after we talked on the phone?
-
-================================================================================
-
-MESSAGE #5
---------------------------------------------------------------------------------
-Date:    01-22, Thursday, 10:34 AM
+Date:    01-22, Thursday, 11:57 AM
 From:    Unknown
 Contact: Hanson Turnbull
-ID:      170262519
+ID:      170297782
 
 Message:
-Your prices are already to high.  So if they go up this quick im not at all interested in working with you.  You need a new closing line
+My agent with State auto was able to get us down to 4850 and your at 5400
 
 ================================================================================
 

@@ -1,44 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 170263680,
+      "messageId": 170297782,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you!",
-      "timestamp": "01-22, Thursday, 10:36 AM"
-    },
-    {
-      "messageId": 169810502,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hi, yes I have a call scheduled with you at 2:45 his afternoon",
-      "timestamp": "01-20, Tuesday, 12:24 PM"
-    },
-    {
-      "messageId": 170262937,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hi I went with a different broker. Thank you",
-      "timestamp": "01-22, Thursday, 10:35 AM"
-    },
-    {
-      "messageId": 170262739,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Was there information that came out after we talked on the phone?",
-      "timestamp": "01-22, Thursday, 10:35 AM"
-    },
-    {
-      "messageId": 170262519,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Your prices are already to high.  So if they go up this quick im not at all interested in working with you.  You need a new closing line",
-      "timestamp": "01-22, Thursday, 10:34 AM"
+      "messageBody": "My agent with State auto was able to get us down to 4850 and your at 5400",
+      "timestamp": "01-22, Thursday, 11:57 AM"
     }
   ]
 }
