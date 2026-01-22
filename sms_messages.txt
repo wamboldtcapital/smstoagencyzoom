@@ -1,80 +1,66 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-21 20:02:06 UTC
-Total Messages: 6
+Generated: 2026-01-22 17:38:15 UTC
+Total Messages: 5
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 10:40 AM
+Date:    01-22, Thursday, 10:36 AM
 From:    Unknown
-Contact: Eric Stewart
-ID:      170013697
+Contact: Jhaseiry Torres-Reyes
+ID:      170263680
 
 Message:
-I plan on looking at the options today. I am currently dealing with my mom's passing and trying to get things in order. I will let you know when I review the options.
+Thank you!
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 10:32 AM
+Date:    01-20, Tuesday, 12:24 PM
 From:    Unknown
-Contact: Elaine Siseros
-ID:      170007883
+Contact: Jhaseiry Torres-Reyes
+ID:      169810502
 
 Message:
-I thought this was done.
+Hi, yes I have a call scheduled with you at 2:45 his afternoon
 
 ================================================================================
 
 MESSAGE #3
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 8:24 AM
+Date:    01-22, Thursday, 10:35 AM
 From:    Unknown
-Contact: Tyson Snider
-ID:      169922773
+Contact: Jesse Park
+ID:      170262937
 
 Message:
-Good morning Jared. Just checking in.
+Hi I went with a different broker. Thank you
 
 ================================================================================
 
 MESSAGE #4
 --------------------------------------------------------------------------------
-Date:    01-21, Wednesday, 8:24 AM
+Date:    01-22, Thursday, 10:35 AM
 From:    Unknown
 Contact: Tyson Snider
-ID:      169922768
+ID:      170262739
 
 Message:
-Good morning Jared. Just checking in.
+Was there information that came out after we talked on the phone?
 
 ================================================================================
 
 MESSAGE #5
 --------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 10:37 AM
+Date:    01-22, Thursday, 10:34 AM
 From:    Unknown
-Contact: Tyson Snider
-ID:      169763012
+Contact: Hanson Turnbull
+ID:      170262519
 
 Message:
-Hey Jared. Not sure I saw the email. 
-Did you receive the Drivers License number and home VIN?
-
-================================================================================
-
-MESSAGE #6
---------------------------------------------------------------------------------
-Date:    01-20, Tuesday, 10:37 AM
-From:    Unknown
-Contact: Tyson Snider
-ID:      169763008
-
-Message:
-Hey Jared. Not sure I saw the email. 
-Did you receive the Drivers License number and home VIN?
+Your prices are already to high.  So if they go up this quick im not at all interested in working with you.  You need a new closing line
 
 ================================================================================
 

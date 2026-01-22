@@ -1,52 +1,44 @@
 {
   "messages": [
     {
-      "messageId": 170013697,
+      "messageId": 170263680,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I plan on looking at the options today. I am currently dealing with my mom's passing and trying to get things in order. I will let you know when I review the options.",
-      "timestamp": "01-21, Wednesday, 10:40 AM"
+      "messageBody": "Thank you!",
+      "timestamp": "01-22, Thursday, 10:36 AM"
     },
     {
-      "messageId": 170007883,
+      "messageId": 169810502,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I thought this was done.",
-      "timestamp": "01-21, Wednesday, 10:32 AM"
+      "messageBody": "Hi, yes I have a call scheduled with you at 2:45 his afternoon",
+      "timestamp": "01-20, Tuesday, 12:24 PM"
     },
     {
-      "messageId": 169922773,
+      "messageId": 170262937,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Good morning Jared. Just checking in.",
-      "timestamp": "01-21, Wednesday, 8:24 AM"
+      "messageBody": "Hi I went with a different broker. Thank you",
+      "timestamp": "01-22, Thursday, 10:35 AM"
     },
     {
-      "messageId": 169922768,
+      "messageId": 170262739,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Good morning Jared. Just checking in.",
-      "timestamp": "01-21, Wednesday, 8:24 AM"
+      "messageBody": "Was there information that came out after we talked on the phone?",
+      "timestamp": "01-22, Thursday, 10:35 AM"
     },
     {
-      "messageId": 169763012,
+      "messageId": 170262519,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Jared. Not sure I saw the email. \nDid you receive the Drivers License number and home VIN?",
-      "timestamp": "01-20, Tuesday, 10:37 AM"
-    },
-    {
-      "messageId": 169763008,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Jared. Not sure I saw the email. \nDid you receive the Drivers License number and home VIN?",
-      "timestamp": "01-20, Tuesday, 10:37 AM"
+      "messageBody": "Your prices are already to high.  So if they go up this quick im not at all interested in working with you.  You need a new closing line",
+      "timestamp": "01-22, Thursday, 10:34 AM"
     }
   ]
 }
