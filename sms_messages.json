@@ -1,20 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 170336604,
+      "messageId": 170337463,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "snider.tyson.lee@gmail.com",
-      "timestamp": "01-22, Thursday, 1:49 PM"
+      "messageBody": "Any luck with the homeowners insurance?",
+      "timestamp": "01-22, Thursday, 1:53 PM"
     },
     {
-      "messageId": 170336545,
+      "messageId": 170337202,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Noah. I just checked and I do not see it.",
-      "timestamp": "01-22, Thursday, 1:49 PM"
+      "messageBody": "Got it 👍",
+      "timestamp": "01-22, Thursday, 1:52 PM"
     }
   ]
 }
