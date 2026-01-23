@@ -1,30 +1,55 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-22 21:01:34 UTC
-Total Messages: 2
+Generated: 2026-01-23 06:58:22 UTC
+Total Messages: 4
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-22, Thursday, 1:53 PM
+Date:    01-22, Thursday, 7:33 PM
 From:    Unknown
-Contact: Tyson Snider
-ID:      170337463
+Contact: (720) 933-1540
+ID:      170382253
 
 Message:
-Any luck with the homeowners insurance?
+I have the email. I'll watch the video and get back to you. Thanks.
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-22, Thursday, 1:52 PM
+Date:    01-22, Thursday, 5:33 PM
 From:    Unknown
-Contact: Tyson Snider
-ID:      170337202
+Contact: Jacob Eason
+ID:      170379598
 
 Message:
-Got it 👍
+Hey actually I have another car I want you to price for me if that's ok it's another ford fusion here is the vin - 1FA6P0H76E5368464 
+Just let me know what it would be on my own policy the very minimum coverage , I would appreciate it .
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-22, Thursday, 5:27 PM
+From:    Unknown
+Contact: Jacob Eason
+ID:      170379329
+
+Message:
+Please and thank you I will let you know if I find another car I want to get prices on.
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-22, Thursday, 5:00 PM
+From:    Unknown
+Contact: Jacob Eason
+ID:      170377467
+
+Message:
+Hey Noah , You can take it off the car was sold .
 
 ================================================================================
 

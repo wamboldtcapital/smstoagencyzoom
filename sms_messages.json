@@ -1,20 +1,36 @@
 {
   "messages": [
     {
-      "messageId": 170337463,
+      "messageId": 170382253,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Any luck with the homeowners insurance?",
-      "timestamp": "01-22, Thursday, 1:53 PM"
+      "messageBody": "I have the email. I'll watch the video and get back to you. Thanks.",
+      "timestamp": "01-22, Thursday, 7:33 PM"
     },
     {
-      "messageId": 170337202,
+      "messageId": 170379598,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Got it 👍",
-      "timestamp": "01-22, Thursday, 1:52 PM"
+      "messageBody": "Hey actually I have another car I want you to price for me if that's ok it's another ford fusion here is the vin - 1FA6P0H76E5368464 \nJust let me know what it would be on my own policy the very minimum coverage , I would appreciate it .",
+      "timestamp": "01-22, Thursday, 5:33 PM"
+    },
+    {
+      "messageId": 170379329,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Please and thank you I will let you know if I find another car I want to get prices on.",
+      "timestamp": "01-22, Thursday, 5:27 PM"
+    },
+    {
+      "messageId": 170377467,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Hey Noah , You can take it off the car was sold .",
+      "timestamp": "01-22, Thursday, 5:00 PM"
     }
   ]
 }
