@@ -1,20 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-25 21:32:53 UTC
+Generated: 2026-01-27 17:33:59 UTC
 Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-25, Sunday, 2:25 PM
+Date:    01-27, Tuesday, 10:30 AM
 From:    Unknown
-Contact: Sonja Gwartney
-ID:      170684237
+Contact: Tyson Snider
+ID:      171068148
 
 Message:
-I did not get an email that I can find. Will you please resend it? 
-
-We MUST save money on our insurance!! I just got a new bill for our umbrella policy and it is now $4115 annually!😳😳
+Hey Jared. I would like to touch base this week
 
 ================================================================================
 
