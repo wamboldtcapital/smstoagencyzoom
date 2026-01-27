@@ -1,12 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 171108415,
+      "messageId": 171120021,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you!",
-      "timestamp": "01-27, Tuesday, 12:15 PM"
+      "messageBody": "How much would it be for the 2013 Kia optima ?",
+      "timestamp": "01-27, Tuesday, 12:59 PM"
     }
   ]
 }
