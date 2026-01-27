@@ -1,18 +1,54 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-27 17:33:59 UTC
-Total Messages: 1
+Generated: 2026-01-27 18:24:43 UTC
+Total Messages: 4
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-27, Tuesday, 10:30 AM
+Date:    01-27, Tuesday, 11:07 AM
 From:    Unknown
-Contact: Tyson Snider
-ID:      171068148
+Contact: Jacob Eason
+ID:      171084359
 
 Message:
-Hey Jared. I would like to touch base this week
+5XXGM4A72DG133384
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    01-27, Tuesday, 11:07 AM
+From:    Unknown
+Contact: Jacob Eason
+ID:      171084251
+
+Message:
+And also can you check this on as well
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-27, Tuesday, 11:00 AM
+From:    Unknown
+Contact: Jacob Eason
+ID:      171080031
+
+Message:
+KMHEC4A44EA106681
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-27, Tuesday, 11:00 AM
+From:    Unknown
+Contact: Jacob Eason
+ID:      171079768
+
+Message:
+Hey Noah it's Jacob I have a vin number maybe you can run for me ?
 
 ================================================================================
 
