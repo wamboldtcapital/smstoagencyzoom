@@ -1,18 +1,48 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-27 20:22:19 UTC
-Total Messages: 1
+Generated: 2026-01-27 20:56:23 UTC
+Total Messages: 3
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-27, Tuesday, 12:59 PM
+Date:    01-27, Tuesday, 1:50 PM
 From:    Unknown
-Contact: Jacob Eason
-ID:      171120021
+Contact: (469) 319-0987
+ID:      171133602
 
 Message:
-How much would it be for the 2013 Kia optima ?
+Thanks Nina sounds good
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    01-27, Tuesday, 1:50 PM
+From:    Unknown
+Contact: Shannon Eason
+ID:      171133566
+
+Message:
+Hi . Sorry about that I was actually on the phone with somebody from your office and question a billing but they helped me and I took care of that . 
+
+I was just in question of your text message from Jacob he's obviously currently looking for a new vehicle we added him to my policy with the SR-22 . Just wanted to confirm your message as far as when he gets his permit which will be here in the next week or so to show proof of that and hopefully by then we can have a car in place and then hopefully he can take over his own insurance policy at that time as well .
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    08-21, Thursday, 4:47 PM
+From:    Unknown
+Contact: Shannon Eason
+ID:      112403899
+
+Message:
+Hi Nina .
+
+I think I'm going to hold off I did talk with Jared today and I think we're just going to wait for the couple months and then do both of them again at that time so we'll just keep everything as is for now he's thinking they'll be a cheaper rate on both of them at that time versus now.  
+
+Thank you
 
 ================================================================================
 

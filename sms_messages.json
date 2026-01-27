@@ -1,12 +1,28 @@
 {
   "messages": [
     {
-      "messageId": 171120021,
+      "messageId": 171133602,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "How much would it be for the 2013 Kia optima ?",
-      "timestamp": "01-27, Tuesday, 12:59 PM"
+      "messageBody": "Thanks Nina sounds good",
+      "timestamp": "01-27, Tuesday, 1:50 PM"
+    },
+    {
+      "messageId": 171133566,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Hi . Sorry about that I was actually on the phone with somebody from your office and question a billing but they helped me and I took care of that . \n\nI was just in question of your text message from Jacob he's obviously currently looking for a new vehicle we added him to my policy with the SR-22 . Just wanted to confirm your message as far as when he gets his permit which will be here in the next week or so to show proof of that and hopefully by then we can have a car in place and then hopefully he can take over his own insurance policy at that time as well .",
+      "timestamp": "01-27, Tuesday, 1:50 PM"
+    },
+    {
+      "messageId": 112403899,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Hi Nina .\n\nI think I'm going to hold off I did talk with Jared today and I think we're just going to wait for the couple months and then do both of them again at that time so we'll just keep everything as is for now he's thinking they'll be a cheaper rate on both of them at that time versus now.  \n\nThank you",
+      "timestamp": "08-21, Thursday, 4:47 PM"
     }
   ]
 }
