@@ -1,30 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-28 21:42:37 UTC
-Total Messages: 2
+Generated: 2026-01-28 22:13:50 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-28, Wednesday, 2:37 PM
+Date:    01-28, Wednesday, 3:07 PM
 From:    Unknown
 Contact: Jacob Eason
-ID:      171376914
+ID:      171384282
 
 Message:
-Hey Noah , I'm looking at this car if everything checks out I'm going to purchase it in just curious what the insurance would look like if I was on my own policy and I should get my permit/ license next week as well
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-27, Tuesday, 1:25 PM
-From:    Unknown
-Contact: Jacob Eason
-ID:      171127410
-
-Message:
-So I can't get a quote for my own policy since I don't have a license?
+Or do I have to wait to get my permit to see what the numbers look like ?
 
 ================================================================================
 
