@@ -1,44 +1,30 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-28 20:58:20 UTC
-Total Messages: 3
+Generated: 2026-01-28 21:42:37 UTC
+Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-28, Wednesday, 1:54 PM
+Date:    01-28, Wednesday, 2:37 PM
 From:    Unknown
-Contact: Chad Hage
-ID:      171364628
+Contact: Jacob Eason
+ID:      171376914
 
 Message:
-Sorry about that!
+Hey Noah , I'm looking at this car if everything checks out I'm going to purchase it in just curious what the insurance would look like if I was on my own policy and I should get my permit/ license next week as well
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-28, Wednesday, 1:54 PM
+Date:    01-27, Tuesday, 1:25 PM
 From:    Unknown
-Contact: Chad Hage
-ID:      171364625
+Contact: Jacob Eason
+ID:      171127410
 
 Message:
-
-
-================================================================================
-
-MESSAGE #3
---------------------------------------------------------------------------------
-Date:    01-28, Wednesday, 10:54 AM
-From:    Unknown
-Contact: Chad Hage
-ID:      171306697
-
-Message:
-Chad: 01-214-0358
-Danielle: 05-308-0767
-Landon: 17-247-731
+So I can't get a quote for my own policy since I don't have a license?
 
 ================================================================================
 

@@ -1,28 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 171364628,
+      "messageId": 171376914,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Sorry about that!",
-      "timestamp": "01-28, Wednesday, 1:54 PM"
+      "messageBody": "Hey Noah , I'm looking at this car if everything checks out I'm going to purchase it in just curious what the insurance would look like if I was on my own policy and I should get my permit/ license next week as well",
+      "timestamp": "01-28, Wednesday, 2:37 PM"
     },
     {
-      "messageId": 171364625,
+      "messageId": 171127410,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "",
-      "timestamp": "01-28, Wednesday, 1:54 PM"
-    },
-    {
-      "messageId": 171306697,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Chad: 01-214-0358\nDanielle: 05-308-0767\nLandon: 17-247-731",
-      "timestamp": "01-28, Wednesday, 10:54 AM"
+      "messageBody": "So I can't get a quote for my own policy since I don't have a license?",
+      "timestamp": "01-27, Tuesday, 1:25 PM"
     }
   ]
 }
