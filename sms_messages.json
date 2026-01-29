@@ -1,12 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 171402824,
+      "messageId": 171589060,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "This is the right address, but I still don't have it. It's not in my junk folder either. \nCan you please try it again? \nYou can also try Sonja.Gwartney@sechristianschhool.org",
-      "timestamp": "01-28, Wednesday, 6:59 PM"
+      "messageBody": "I have this scheduled for payment.",
+      "timestamp": "01-29, Thursday, 1:05 PM"
     }
   ]
 }
