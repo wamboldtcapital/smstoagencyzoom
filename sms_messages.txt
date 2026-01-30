@@ -1,30 +1,67 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-29 22:26:34 UTC
-Total Messages: 2
+Generated: 2026-01-30 06:46:34 UTC
+Total Messages: 5
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-29, Thursday, 3:13 PM
+Date:    01-29, Thursday, 7:29 PM
 From:    Unknown
 Contact: Darryl Stewart
-ID:      171624307
+ID:      171646959
 
 Message:
-Any update on a quote for insurance?
+How much extra would it cost to get full replacement on the roof?
 
 ================================================================================
 
 MESSAGE #2
 --------------------------------------------------------------------------------
-Date:    01-27, Tuesday, 12:06 PM
+Date:    01-29, Thursday, 7:27 PM
 From:    Unknown
 Contact: Darryl Stewart
-ID:      171103929
+ID:      171646943
 
 Message:
-Yes
+Noah, just noticed that the policy Coverage A - Dwelling is for $585,000.  We are buying the house for $870,000.
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    01-29, Thursday, 7:21 PM
+From:    Unknown
+Contact: Darryl Stewart
+ID:      171646877
+
+Message:
+Noah, yes I received your email and will look over the quote.
+The loan company is requiring the insurance company to have a minimum of an A rating.  And that the policy covers full replacement cost.  Can you let me know if we meet both of those items?
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    01-29, Thursday, 6:18 PM
+From:    Unknown
+Contact: Aubrey Jones
+ID:      171645752
+
+Message:
+Happy to talk through it to make sure that is the case.
+
+================================================================================
+
+MESSAGE #5
+--------------------------------------------------------------------------------
+Date:    01-29, Thursday, 6:16 PM
+From:    Unknown
+Contact: Aubrey Jones
+ID:      171645717
+
+Message:
+I did receive it. The video was a bit frustrating. I think my current insurance policy is better and less expensive than what you quoted.
 
 ================================================================================
 
