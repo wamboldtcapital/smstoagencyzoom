@@ -1,67 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-01-30 06:46:34 UTC
-Total Messages: 5
+Generated: 2026-01-30 13:59:11 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    01-29, Thursday, 7:29 PM
+Date:    01-30, Friday, 6:37 AM
 From:    Unknown
-Contact: Darryl Stewart
-ID:      171646959
+Contact: Preston Malcolm
+ID:      171650323
 
 Message:
-How much extra would it cost to get full replacement on the roof?
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    01-29, Thursday, 7:27 PM
-From:    Unknown
-Contact: Darryl Stewart
-ID:      171646943
-
-Message:
-Noah, just noticed that the policy Coverage A - Dwelling is for $585,000.  We are buying the house for $870,000.
-
-================================================================================
-
-MESSAGE #3
---------------------------------------------------------------------------------
-Date:    01-29, Thursday, 7:21 PM
-From:    Unknown
-Contact: Darryl Stewart
-ID:      171646877
-
-Message:
-Noah, yes I received your email and will look over the quote.
-The loan company is requiring the insurance company to have a minimum of an A rating.  And that the policy covers full replacement cost.  Can you let me know if we meet both of those items?
-
-================================================================================
-
-MESSAGE #4
---------------------------------------------------------------------------------
-Date:    01-29, Thursday, 6:18 PM
-From:    Unknown
-Contact: Aubrey Jones
-ID:      171645752
-
-Message:
-Happy to talk through it to make sure that is the case.
-
-================================================================================
-
-MESSAGE #5
---------------------------------------------------------------------------------
-Date:    01-29, Thursday, 6:16 PM
-From:    Unknown
-Contact: Aubrey Jones
-ID:      171645717
-
-Message:
-I did receive it. The video was a bit frustrating. I think my current insurance policy is better and less expensive than what you quoted.
+Hey Noah! I haven't received anything from progressive yet, so I just wanted to confirm that I'm still good to go and that my coverage will start tomorrow, the 31st. Thanks for the help!
 
 ================================================================================
 

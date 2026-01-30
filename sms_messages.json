@@ -1,44 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 171646959,
+      "messageId": 171650323,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "How much extra would it cost to get full replacement on the roof?",
-      "timestamp": "01-29, Thursday, 7:29 PM"
-    },
-    {
-      "messageId": 171646943,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Noah, just noticed that the policy Coverage A - Dwelling is for $585,000.  We are buying the house for $870,000.",
-      "timestamp": "01-29, Thursday, 7:27 PM"
-    },
-    {
-      "messageId": 171646877,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Noah, yes I received your email and will look over the quote.\nThe loan company is requiring the insurance company to have a minimum of an A rating.  And that the policy covers full replacement cost.  Can you let me know if we meet both of those items?",
-      "timestamp": "01-29, Thursday, 7:21 PM"
-    },
-    {
-      "messageId": 171645752,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Happy to talk through it to make sure that is the case.",
-      "timestamp": "01-29, Thursday, 6:18 PM"
-    },
-    {
-      "messageId": 171645717,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "I did receive it. The video was a bit frustrating. I think my current insurance policy is better and less expensive than what you quoted.",
-      "timestamp": "01-29, Thursday, 6:16 PM"
+      "messageBody": "Hey Noah! I haven't received anything from progressive yet, so I just wanted to confirm that I'm still good to go and that my coverage will start tomorrow, the 31st. Thanks for the help!",
+      "timestamp": "01-30, Friday, 6:37 AM"
     }
   ]
 }
