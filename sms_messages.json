@@ -1,12 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 171650323,
+      "messageId": 171679932,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Noah! I haven't received anything from progressive yet, so I just wanted to confirm that I'm still good to go and that my coverage will start tomorrow, the 31st. Thanks for the help!",
-      "timestamp": "01-30, Friday, 6:37 AM"
+      "messageBody": "Thanks!",
+      "timestamp": "01-30, Friday, 8:12 AM"
     }
   ]
 }
