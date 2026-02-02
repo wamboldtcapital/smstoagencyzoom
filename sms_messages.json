@@ -1,20 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 171931402,
+      "messageId": 172101192,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "What was the quote price for liability?",
-      "timestamp": "01-31, Saturday, 2:06 PM"
-    },
-    {
-      "messageId": 171388635,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Ok thank you",
-      "timestamp": "01-28, Wednesday, 3:31 PM"
+      "messageBody": "Ok thanks",
+      "timestamp": "02-02, Monday, 10:27 AM"
     }
   ]
 }
