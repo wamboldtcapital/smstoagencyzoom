@@ -1,31 +1,20 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-02-03 17:15:24 UTC
-Total Messages: 2
+Generated: 2026-02-03 18:49:23 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-03, Tuesday, 10:13 AM
+Date:    02-03, Tuesday, 11:48 AM
 From:    Unknown
-Contact: Aubrey Jones
-ID:      172332798
+Contact: Sonja Gwartney
+ID:      172376889
 
 Message:
-I send and email this morning with what I wanted and tried vey hard to get ahold of you Friday.
+I haven't forgotten! I'm finishing basketball season and haven't had time to review the info. 
 
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    02-03, Tuesday, 10:12 AM
-From:    Unknown
-Contact: Scott &amp; Robyn Berklite
-ID:      172331935
-
-Message:
-Thanks...escrow is waiting on the house insurance!
-Thanks, Robyn Berklite
+It's on my to-do list asap!
 
 ================================================================================
 
