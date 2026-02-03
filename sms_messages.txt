@@ -1,18 +1,31 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-02-03 06:47:09 UTC
-Total Messages: 1
+Generated: 2026-02-03 17:15:24 UTC
+Total Messages: 2
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-02, Monday, 1:39 PM
+Date:    02-03, Tuesday, 10:13 AM
 From:    Unknown
-Contact: Isabelle Pippenger
-ID:      172175951
+Contact: Aubrey Jones
+ID:      172332798
 
 Message:
-I did receive it, thank you! I'll review it momentarily with my partner when he's out of his meeting
+I send and email this morning with what I wanted and tried vey hard to get ahold of you Friday.
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 10:12 AM
+From:    Unknown
+Contact: Scott &amp; Robyn Berklite
+ID:      172331935
+
+Message:
+Thanks...escrow is waiting on the house insurance!
+Thanks, Robyn Berklite
 
 ================================================================================
 
