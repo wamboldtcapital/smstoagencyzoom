@@ -1,20 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-02-03 18:49:23 UTC
+Generated: 2026-02-03 19:34:21 UTC
 Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-03, Tuesday, 11:48 AM
+Date:    02-03, Tuesday, 12:15 PM
 From:    Unknown
-Contact: Sonja Gwartney
-ID:      172376889
+Contact: Aubrey Jones
+ID:      172386486
 
 Message:
-I haven't forgotten! I'm finishing basketball season and haven't had time to review the info. 
-
-It's on my to-do list asap!
+Not sure if your last message was automated. But I would like to be able to get ahold of you to be able to buy this policy.
 
 ================================================================================
 

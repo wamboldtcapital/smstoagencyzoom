@@ -1,12 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 172376889,
+      "messageId": 172386486,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I haven't forgotten! I'm finishing basketball season and haven't had time to review the info. \n\nIt's on my to-do list asap!",
-      "timestamp": "02-03, Tuesday, 11:48 AM"
+      "messageBody": "Not sure if your last message was automated. But I would like to be able to get ahold of you to be able to buy this policy.",
+      "timestamp": "02-03, Tuesday, 12:15 PM"
     }
   ]
 }
