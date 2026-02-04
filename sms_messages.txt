@@ -1,18 +1,78 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-02-03 19:34:21 UTC
-Total Messages: 1
+Generated: 2026-02-04 06:51:38 UTC
+Total Messages: 6
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-03, Tuesday, 12:15 PM
+Date:    02-03, Tuesday, 7:18 PM
 From:    Unknown
-Contact: Aubrey Jones
-ID:      172386486
+Contact: Scott &amp; Robyn Berklite
+ID:      172457244
 
 Message:
-Not sure if your last message was automated. But I would like to be able to get ahold of you to be able to buy this policy.
+Ok... thanks for letting me know. Escrow reached out to me about this today.
+
+================================================================================
+
+MESSAGE #2
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 7:08 PM
+From:    Unknown
+Contact: Sonja Gwartney
+ID:      172457122
+
+Message:
+Liked “Thanks for letting me know. If you have any questions while reviewing, feel free to reach out anytime! - Noah”
+
+================================================================================
+
+MESSAGE #3
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 6:19 PM
+From:    Unknown
+Contact: Aubrey Jones
+ID:      172456056
+
+Message:
+Liked “Hey Aubrey! Thanks for sending the photo over. If the coverages had been rejected, there would be an “X” in the box next to the rejection statement. I reviewed your policy, and those coverages were included when the policy was submitted. You do have both Medical Payments and Underinsured Motorist coverage with Progressive. - Noah”
+
+================================================================================
+
+MESSAGE #4
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 5:30 PM
+From:    Unknown
+Contact: Aubrey Jones
+ID:      172454415
+
+Message:
+
+
+================================================================================
+
+MESSAGE #5
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 5:27 PM
+From:    Unknown
+Contact: Aubrey Jones
+ID:      172454271
+
+Message:
+It says I have rejected medical and under insured coverages.
+
+================================================================================
+
+MESSAGE #6
+--------------------------------------------------------------------------------
+Date:    02-03, Tuesday, 5:46 PM
+From:    Unknown
+Contact: Chad Figgins
+ID:      172455042
+
+Message:
+Hey Jared long time no speak, never heard back from you about those quotes?
 
 ================================================================================
 
