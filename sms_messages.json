@@ -1,12 +1,20 @@
 {
   "messages": [
     {
-      "messageId": 172572697,
+      "messageId": 172652652,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey Noah , I have my drivers license now",
-      "timestamp": "02-04, Wednesday, 10:27 AM"
+      "messageBody": "Yes review now will call you when done",
+      "timestamp": "02-04, Wednesday, 2:03 PM"
+    },
+    {
+      "messageId": 172587986,
+      "direction": "Outbound",
+      "from": "Unknown",
+      "to": "agent@ullrichinsurance.com",
+      "messageBody": "Thank you, I responded to your last email and let you know we decided to go with a local company who came in with better numbers. We are no longer interested, but appreciate your time and sharing the quotes with us.",
+      "timestamp": "02-04, Wednesday, 10:50 AM"
     }
   ]
 }
