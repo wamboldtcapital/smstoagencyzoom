@@ -1,30 +1,18 @@
 ================================================================================
 SMS MESSAGES EXPORT
-Generated: 2026-02-04 22:08:02 UTC
-Total Messages: 2
+Generated: 2026-02-05 17:31:00 UTC
+Total Messages: 1
 ================================================================================
 
 MESSAGE #1
 --------------------------------------------------------------------------------
-Date:    02-04, Wednesday, 2:03 PM
+Date:    02-05, Thursday, 10:29 AM
 From:    Unknown
-Contact: Scott Berklite
-ID:      172652652
+Contact: Drake Sorenson
+ID:      172812279
 
 Message:
-Yes review now will call you when done
-
-================================================================================
-
-MESSAGE #2
---------------------------------------------------------------------------------
-Date:    02-04, Wednesday, 10:50 AM
-From:    Unknown
-Contact: Chad Hage
-ID:      172587986
-
-Message:
-Thank you, I responded to your last email and let you know we decided to go with a local company who came in with better numbers. We are no longer interested, but appreciate your time and sharing the quotes with us.
+Thank you Jared, much appreciated. Hope your day is well
 
 ================================================================================
 
