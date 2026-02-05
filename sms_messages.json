@@ -1,28 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 172900098,
+      "messageId": 172909611,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Did you receive it?",
-      "timestamp": "02-05, Thursday, 2:27 PM"
-    },
-    {
-      "messageId": 172898266,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Will a screenshot of it work? And then I can send the screenshot to your email?",
-      "timestamp": "02-05, Thursday, 2:17 PM"
-    },
-    {
-      "messageId": 172897733,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "I only have it on the Colorado id app",
-      "timestamp": "02-05, Thursday, 2:15 PM"
+      "messageBody": "2C3CCAEG7GH343107",
+      "timestamp": "02-05, Thursday, 3:14 PM"
     }
   ]
 }
