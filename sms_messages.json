@@ -1,12 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 172812279,
+      "messageId": 172830261,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you Jared, much appreciated. Hope your day is well",
-      "timestamp": "02-05, Thursday, 10:29 AM"
+      "messageBody": "Hello! Thank you for following up. We ended up finding a more cost effective option with the same coverage. I would love to touch base next year!",
+      "timestamp": "02-05, Thursday, 11:10 AM"
     }
   ]
 }
