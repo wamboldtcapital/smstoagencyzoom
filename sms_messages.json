@@ -1,28 +1,12 @@
 {
   "messages": [
     {
-      "messageId": 173036695,
+      "messageId": 173049174,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Thank you for the update",
-      "timestamp": "02-06, Friday, 10:11 AM"
-    },
-    {
-      "messageId": 173035805,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Awww love this . Thank you to all !",
-      "timestamp": "02-06, Friday, 10:10 AM"
-    },
-    {
-      "messageId": 173035393,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "Ok sounds good thank you",
-      "timestamp": "02-06, Friday, 10:09 AM"
+      "messageBody": "Thank you",
+      "timestamp": "02-06, Friday, 10:38 AM"
     }
   ]
 }
