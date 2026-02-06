@@ -1,36 +1,28 @@
 {
   "messages": [
     {
-      "messageId": 172922068,
+      "messageId": 173036695,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Hey did you get my text",
-      "timestamp": "02-05, Thursday, 4:46 PM"
+      "messageBody": "Thank you for the update",
+      "timestamp": "02-06, Friday, 10:11 AM"
     },
     {
-      "messageId": 172909270,
+      "messageId": 173035805,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'm in my car and situated.",
-      "timestamp": "02-05, Thursday, 3:12 PM"
+      "messageBody": "Awww love this . Thank you to all !",
+      "timestamp": "02-06, Friday, 10:10 AM"
     },
     {
-      "messageId": 172683136,
+      "messageId": 173035393,
       "direction": "Outbound",
       "from": "Unknown",
       "to": "agent@ullrichinsurance.com",
-      "messageBody": "Either is fine, I'll be driving either way. I'll be heading to my son's school.",
-      "timestamp": "02-04, Wednesday, 6:11 PM"
-    },
-    {
-      "messageId": 172682731,
-      "direction": "Outbound",
-      "from": "Unknown",
-      "to": "agent@ullrichinsurance.com",
-      "messageBody": "I'm getting off work at 3, so how about 3:10? That will give me a few mins to get to my car.",
-      "timestamp": "02-04, Wednesday, 5:56 PM"
+      "messageBody": "Ok sounds good thank you",
+      "timestamp": "02-06, Friday, 10:09 AM"
     }
   ]
 }
