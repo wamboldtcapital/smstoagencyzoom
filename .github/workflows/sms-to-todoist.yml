@@ -9,7 +9,7 @@ on:
         type: string
         default: ''
   schedule:
-    - cron: "*/5 * * * *"        # every 5 minutes
+   # - cron: "*/5 * * * *"        # every 5 minutes
 
 permissions:
   contents: write                # needed to commit the cache file
